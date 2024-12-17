@@ -1,6 +1,6 @@
 # 🚀 **Enes Çakmakçı's GitHub** 🚀
 
-![Synthwave Banner](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjlvZXB0b2g3NTYzc3hjczV1N3U4cGFnOHVxYzhpZjBjaDJyb3d5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/qwpx3amXzX7GAmjg7C/giphy.gif)
+![Synthwave Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjlvZXB0b2g3NTYzc3hjczV1N3U4cGFnOHVxYzhpZjBjaDJyb3d5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/qwpx3amXzX7GAmjg7C/giphy.gif)
 
 ---
 
@@ -9,11 +9,10 @@
 I am a **front-end developer** who loves creating modern, dynamic, and user-friendly web interfaces. 💻✨
 
 💡 **Technologies I Work With:**
-- **HTML5**, **CSS3**, **JavaScript**, **TypeScript**
-- Web development with **React** and **Next.js**
-- Building modern designs with **Tailwind CSS** and **SCSS**
-- **Git** and **GitHub** for version control
-- **Node.js** and **Express.js** for backend integration
+- [**HTML5**](https://developer.mozilla.org/en-US/docs/Web/HTML) | [**CSS3**](https://developer.mozilla.org/en-US/docs/Web/CSS) | [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [**TypeScript**](https://www.typescriptlang.org/)
+- [**React**](https://reactjs.org/) | [**Next.js**](https://nextjs.org/)
+- [**Tailwind CSS**](https://tailwindcss.com/) | [**SCSS**](https://sass-lang.com/)
+- [**Git**](https://git-scm.com/) | [**Node.js**](https://nodejs.org/) | [**Express.js**](https://expressjs.com/)
 
 🌱 **My Goal:** To always build fast, user-centered, and accessible web projects.
 
@@ -31,9 +30,7 @@ Aiming to create a **SEO-friendly** and **dynamic blog site**. I will use **Next
 
 ## 🛠️ **Technologies I Use:**
 
-![Tech Stack](https://skillicons.dev/icons?i=ts,js,react,nextjs,css,tailwind,git)
-
-- **TypeScript** | **JavaScript** | **React** | **Next.js** | **Tailwind CSS** | **Git** | **Node.js** | **Express.js**
+[![Tech Stack](https://skillicons.dev/icons?i=ts,js,react,nextjs,css,tailwind,git)](https://skillicons.dev/)
 
 ---
 
@@ -45,8 +42,8 @@ Aiming to create a **SEO-friendly** and **dynamic blog site**. I will use **Next
 
 ## 🌐 **Contact Me:**
 
-- **LinkedIn:** [Enes Çakmakçı](https://www.linkedin.com/in/enescakmakci)
-- **Twitter:** [@Enes_Cakmakci](https://twitter.com/Enes_Cakmakci)
+- **[LinkedIn](https://www.linkedin.com/in/enescakmakci):** Enes Çakmakçı
+- **[Twitter](https://twitter.com/Enes_Cakmakci):** @Enes_Cakmakci
 
 ---
 
