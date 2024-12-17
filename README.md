@@ -4,32 +4,32 @@
 
 ---
 
-## 🔥 **Merhaba! Ben Enes Çakmakçı!** 🔥
+## 🔥 **Hello! I'm Enes Çakmakçı!** 🔥
 
-Ben bir **front-end developer** olarak modern, dinamik ve kullanıcı dostu web arayüzleri geliştirmeyi seviyorum. 💻✨
+I am a **front-end developer** passionate about building modern, dynamic, and user-friendly web interfaces. 💻✨
 
-💡 **Teknolojilerim:**
+💡 **Technologies I Work With:**
 - **HTML5**, **CSS3**, **JavaScript**, **TypeScript**
-- **React** ve **Next.js** ile web geliştirme
-- **Tailwind CSS** ve **SCSS** ile modern tasarımlar
-- **Git** ve **GitHub** ile sürüm kontrolü
-- **Node.js** ve **Express.js** ile backend entegrasyonu
+- Web development with **React** and **Next.js**
+- Creating modern designs with **Tailwind CSS** and **SCSS**
+- Version control using **Git** and **GitHub**
+- Backend integration with **Node.js** and **Express.js**
 
-🌱 **Hedefim:** Her zaman kullanıcı odaklı, hızlı ve erişilebilir web projeleri geliştirmek.
-
----
-
-## 🌟 **Projelerim ve İlgi Alanlarım** 🌟
-
-### 🎥 **Video Paylaşma Platformu**  
-Bir **YouTube benzeri platform** geliştirme hedefim var. Kullanıcıların video yükleyip paylaşabileceği, etkileşimli bir platform oluşturmayı planlıyorum.
-
-### 💬 **Blog Sayfası**  
-SEO uyumlu ve dinamik bir blog sayfası geliştirmeyi planlıyorum. **Next.js** ile hızlı ve duyarlı bir site tasarımı yapmayı hedefliyorum.
+🌱 **My Goal:** To always develop user-centered, fast, and accessible web projects.
 
 ---
 
-## 🛠️ **Kullandığım Teknolojiler:**
+## 🌟 **My Projects & Interests** 🌟
+
+### 🎥 **Video Sharing Platform**  
+I am working on a **YouTube-like platform** where users can upload and share videos, creating an interactive space for content creators.
+
+### 💬 **Blog Page**  
+I plan to develop an SEO-friendly, dynamic blog page. My goal is to create a fast and responsive site using **Next.js** and modern design principles.
+
+---
+
+## 🛠️ **Technologies I Use:**
 
 ![Tech Stack](https://skillicons.dev/icons?i=ts,js,react,nextjs,css,tailwind,git)
 
@@ -37,31 +37,31 @@ SEO uyumlu ve dinamik bir blog sayfası geliştirmeyi planlıyorum. **Next.js** 
 
 ---
 
-## 📊 **GitHub İstatistiklerim** 📊
+## 📊 **GitHub Stats** 📊
 
-![Enes Çakmakçı GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=enescakmakci&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Enes Çakmakçı GitHub Stats](https://github-readme-stats.vercel.app/api?username=enescakmakci&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
-## 🌐 **İletişim:**
+## 🌐 **Contact Me:**
 
 - **LinkedIn:** [Enes Çakmakçı](https://www.linkedin.com/in/enescakmakci)
 - **Twitter:** [@Enes_Cakmakci](https://twitter.com/Enes_Cakmakci)
 
 ---
 
-## 🔗 **Öne Çıkan Projelerim** 🔗
+## 🔗 **Featured Projects:**
 
-- [**Blog Sitesi Projesi**](https://github.com/enescakmakci/blog-site)
-- [**Video Paylaşma Platformu**](https://github.com/enescakmakci/video-platform)
-- [**Synthwave Web Tasarımı**](https://github.com/enescakmakci/synthwave-web)
-
----
-
-> **"Kodu yazmak bir sanat gibidir, her zaman yaratıcı ve yenilikçi olmayı hedefliyorum!"** ✨
+- [**Blog Site Project**](https://github.com/enescakmakci/blog-site)
+- [**Video Sharing Platform**](https://github.com/enescakmakci/video-platform)
+- [**Synthwave Web Design**](https://github.com/enescakmakci/synthwave-web)
 
 ---
 
-### 💥 **Beni Takip Etmeye Devam Et!** 💥
+> **"Writing code is like creating art; I strive to be creative and innovative every time!"** ✨
+
+---
+
+### 💥 **Keep Following Me!** 💥
 
 ![Follow me](https://img.shields.io/github/followers/enescakmakci?style=social)
