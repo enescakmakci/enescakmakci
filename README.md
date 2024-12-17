@@ -1,6 +1,6 @@
 # 🚀 **Enes Çakmakçı's GitHub** 🚀
 
-![Synthwave Banner](https://media.giphy.com/media/Wm7ZywpO72f5nq0g4E/giphy.gif)
+![Synthwave Banner](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjlvZXB0b2g3NTYzc3hjczV1N3U4cGFnOHVxYzhpZjBjaDJyb3d5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/qwpx3amXzX7GAmjg7C/giphy.gif)
 
 ---
 
