@@ -1,6 +1,6 @@
 # 🚀 **Enes Çakmakçı's GitHub** 🚀
 
-![Synthwave Banner](![Uploading giphy.gif…]())
+![giphy](https://github.com/user-attachments/assets/8ad00211-54ee-46be-911a-0098a49a6413)
 
 ---
 
