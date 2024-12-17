@@ -6,26 +6,26 @@
 
 ## 🔥 **Hello! I'm Enes Çakmakçı!** 🔥
 
-I am a **front-end developer** passionate about building modern, dynamic, and user-friendly web interfaces. 💻✨
+I am a **front-end developer** who loves creating modern, dynamic, and user-friendly web interfaces. 💻✨
 
 💡 **Technologies I Work With:**
 - **HTML5**, **CSS3**, **JavaScript**, **TypeScript**
 - Web development with **React** and **Next.js**
-- Creating modern designs with **Tailwind CSS** and **SCSS**
-- Version control using **Git** and **GitHub**
-- Backend integration with **Node.js** and **Express.js**
+- Building modern designs with **Tailwind CSS** and **SCSS**
+- **Git** and **GitHub** for version control
+- **Node.js** and **Express.js** for backend integration
 
-🌱 **My Goal:** To always develop user-centered, fast, and accessible web projects.
+🌱 **My Goal:** To always build fast, user-centered, and accessible web projects.
 
 ---
 
 ## 🌟 **My Projects & Interests** 🌟
 
 ### 🎥 **Video Sharing Platform**  
-I am working on a **YouTube-like platform** where users can upload and share videos, creating an interactive space for content creators.
+I am working on a **YouTube-like platform** where users can upload and share videos, as well as interact with other users.
 
-### 💬 **Blog Page**  
-I plan to develop an SEO-friendly, dynamic blog page. My goal is to create a fast and responsive site using **Next.js** and modern design principles.
+### 💬 **Blog Website**  
+Aiming to create a **SEO-friendly** and **dynamic blog site**. I will use **Next.js** to design a fast, responsive site.
 
 ---
 
@@ -50,7 +50,7 @@ I plan to develop an SEO-friendly, dynamic blog page. My goal is to create a fas
 
 ---
 
-## 🔗 **Featured Projects:**
+## 🔗 **Featured Projects** 🔗
 
 - [**Blog Site Project**](https://github.com/enescakmakci/blog-site)
 - [**Video Sharing Platform**](https://github.com/enescakmakci/video-platform)
@@ -58,10 +58,10 @@ I plan to develop an SEO-friendly, dynamic blog page. My goal is to create a fas
 
 ---
 
-> **"Writing code is like creating art; I strive to be creative and innovative every time!"** ✨
+> **"Writing code is like an art, I always aim to be creative and innovative!"** ✨
 
 ---
 
-### 💥 **Keep Following Me!** 💥
+### 💥 **Continue Following Me!** 💥
 
 ![Follow me](https://img.shields.io/github/followers/enescakmakci?style=social)
