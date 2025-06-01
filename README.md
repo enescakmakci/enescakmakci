@@ -1,64 +1,84 @@
-# 🚀 **Enes Çakmakçı's GitHub** 🚀
-
-![giphy](https://github.com/user-attachments/assets/8ad00211-54ee-46be-911a-0098a49a6413)
-
----
-
-## 🔥 **Hello! I'm Enes Çakmakçı!** 🔥
-
-I am a **front-end developer** who loves creating modern, dynamic, and user-friendly web interfaces. 💻✨
-
-💡 **Technologies I Work With:**
-- [**HTML5**](https://developer.mozilla.org/en-US/docs/Web/HTML) | [**CSS3**](https://developer.mozilla.org/en-US/docs/Web/CSS) | [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [**TypeScript**](https://www.typescriptlang.org/)
-- [**React**](https://reactjs.org/) | [**Next.js**](https://nextjs.org/)
-- [**Tailwind CSS**](https://tailwindcss.com/) | [**SCSS**](https://sass-lang.com/)
-- [**Git**](https://git-scm.com/) | [**Node.js**](https://nodejs.org/) | [**Express.js**](https://expressjs.com/)
-
-🌱 **My Goal:** To always build fast, user-centered, and accessible web projects.
+<h1 align="center">🚀 Enes Çakmakçı's GitHub 🚀</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF5C57&center=true&vCenter=true&width=460&lines=Creative+Frontend+Developer;Synthwave+Design+Lover;Clean+Code+Enthusiast;TypeScript%2C+React%2C+Next.js+Specialist" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🌟 **My Projects & Interests** 🌟
+## 🔥 Hello! I'm Enes Çakmakçı 🔥
 
-### 🎥 **Video Sharing Platform**  
-I am working on a **YouTube-like platform** where users can upload and share videos, as well as interact with other users.
+I’m a passionate **Front-End Developer** from Turkey who loves to build modern, user-centered, and performance-driven web experiences.
 
-### 💬 **Blog Website**  
-Aiming to create a **SEO-friendly** and **dynamic blog site**. I will use **Next.js** to design a fast, responsive site.
-
----
-
-## 🛠️ **Technologies I Use:**
-
-[![Tech Stack](https://skillicons.dev/icons?i=ts,js,react,nextjs,css,tailwind,git)](https://skillicons.dev/)
+💡 **What drives me?**  
+Blending clean code + minimal design + bold aesthetics to create web projects that not only work fast — but look unforgettable.
 
 ---
 
-## 📊 **GitHub Stats** 📊
+## 🧠 Tech Stack & Tools
 
-![Enes Çakmakçı GitHub Stats](https://github-readme-stats.vercel.app/api?username=enescakmakci&show_icons=true&count_private=true&hide=prs&theme=radical)
+### ⚙️ Languages & Frameworks  
+[![Tech Stack](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,scss,tailwind,nodejs,express)](https://skillicons.dev)
 
----
-
-## 🌐 **Contact Me:**
-
-- **[LinkedIn](https://www.linkedin.com/in/enescakmakci):** Enes Çakmakçı
-- **[Twitter](https://twitter.com/Enes_Cakmakci):** @Enes_Cakmakci
-
----
-
-## 🔗 **Featured Projects** 🔗
-
-- [**Blog Site Project**](https://github.com/enescakmakci/blog-site)
-- [**Video Sharing Platform**](https://github.com/enescakmakci/video-platform)
-- [**Synthwave Web Design**](https://github.com/enescakmakci/synthwave-web)
+### 🛠️ Tools & Environments  
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel)
 
 ---
 
-> **"Writing code is like an art, I always aim to be creative and innovative!"** ✨
+## 🌟 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| 🎥 [**Video Sharing Platform**](https://github.com/enescakmakci/video-platform) | A YouTube-inspired video platform where users can upload, share and interact. Built using React + Node. |
+| 📝 [**Blog Site Project**](https://github.com/enescakmakci/blog-site) | SEO-friendly, dynamic blog site powered by Next.js, Tailwind, and Markdown support. |
+| 🌌 [**Synthwave Web Design**](https://github.com/enescakmakci/synthwave-web) | An aesthetic UI experiment with retro gradients, glowing buttons and cyberpunk feel. |
 
 ---
 
-### 💥 **Continue Following Me!** 💥
+## 📊 GitHub Stats
 
-![Follow me](https://img.shields.io/github/followers/enescakmakci?style=social)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=enescakmakci&show_icons=true&theme=synthwave&count_private=true&hide=prs" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enescakmakci&layout=compact&theme=synthwave" alt="Top Languages" />
+</p>
+
+---
+
+## 🌱 Currently Working On
+
+- 🧪 Building **modern UI/UX prototypes** with Tailwind & Framer Motion  
+- 🧩 Developing a **video platform** with custom upload + playback features  
+- 🌍 Exploring **serverless architecture** and headless CMS (Strapi, Sanity)  
+- 🔍 Learning advanced **SEO strategies** for Next.js projects  
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://enescakmakci.dev" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-ff5c57?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/enes-%C3%A7akmak%C3%A7%C4%B1-45650b34a/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-5f27cd?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://x.com/enesmcakmakci" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+</p>
+
+---
+## 🎨 Synthwave Palette
+
+```css
+// Theme colors
+--neon-red: #ff5c57;
+--retro-purple: #5f27cd;
+--night-black: #1e1f26;
+--clean-text: #c8d6e5;
+```
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=150&text=Thanks%20for%20visiting!&fontAlign=50&fontColor=c8d6e5&color=5f27cd" />
+</p>
