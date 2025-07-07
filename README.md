@@ -95,7 +95,7 @@ A YouTube-inspired video platform with upload & interaction features.
 </p>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWswenN3djJmenc4d2VwbnZzcTk2NjMyaG9nOW40cGEwbzE3YnB2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fnOjFOmUYslxChrMMC/giphy.gif" width="420px" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWswenN3djJmenc4d2VwbnZzcTk2NjMyaG9nOW40cGEwbzE3YnB2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fnOjFOmUYslxChrMMC/giphy.gif" width="820px" />
   <br/>
   <i>Thanks for visiting — stay bold, stay synth. 🕶️⚡</i>
 </p>
