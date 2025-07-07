@@ -46,7 +46,7 @@ I'm a passionate **Front-End Developer** from Turkey who blends **clean code**, 
 
 | Project | Description |
 |--------|-------------|
-| 🎥 [**Video Sharing Platform**](https://github.com/enescakmakci/video-platform) <br> ⭐ 42 stars | A YouTube-inspired video platform where users can upload, share, and interact. Built using React + Node. |
+| 🎥 [**Corporate Website**](https://github.com/enescakmakci/video-platform) <br> ⭐ 42 stars | A premium, pixel-perfect corporate landing page for a high-end architectural ligthing brand. Fully responsive, dark/light mode, modern UI/UX and accessible, built with pure HTML5, CSS3, and vanilla Javascript.|
 | 📝 [**Blog Site Project**](https://github.com/enescakmakci/blog-site) | SEO-friendly, dynamic blog site powered by Next.js, Tailwind, and Markdown support. |
 | 🌌 [**Synthwave Web Design**](https://github.com/enescakmakci/synthwave-web) | An aesthetic UI experiment with retro gradients, glowing buttons and cyberpunk feel. |
 
