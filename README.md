@@ -3,14 +3,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF5C57&center=true&vCenter=true&width=460&lines=Creative+Frontend+Developer;Synthwave+Design+Lover;Clean+Code+Enthusiast;TypeScript%2C+React%2C+Next.js+Specialist" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=enescakmakci&style=flat-square" alt="Profile Views" />
+</p>
+
 ---
 
 ## 🔥 Hello! I'm Enes Çakmakçı 🔥
 
-I’m a passionate **Front-End Developer** from Turkey who loves to build modern, user-centered, and performance-driven web experiences.
+I'm a passionate **Front-End Developer** from Turkey who blends **clean code**, **minimal design**, and **bold aesthetics** to build fast, unforgettable web experiences.
 
-💡 **What drives me?**  
-Blending clean code + minimal design + bold aesthetics to create web projects that not only work fast — but look unforgettable.
+> 🚀 *I see the web as a canvas. My job? Turning ideas into immersive experiences — fast, functional, and visually bold.*
 
 ---
 
@@ -25,15 +28,36 @@ Blending clean code + minimal design + bold aesthetics to create web projects th
 
 ---
 
+## ⚡ Super Tools I Use
+
+| Purpose        | Tool                                                                 |
+|----------------|----------------------------------------------------------------------|
+| 🧠 Code Editor | [VS Code](https://code.visualstudio.com/)                            |
+| 🖼 Design      | [Figma](https://figma.com), [Dribbble](https://dribbble.com/)        |
+| 🧪 Animation   | [Framer Motion](https://www.framer.com/motion/), [LottieFiles](https://lottiefiles.com/) |
+| 🌐 Deploy      | [Vercel](https://vercel.com), [Netlify](https://netlify.com)         |
+| 📈 Analytics   | [Plausible.io](https://plausible.io/), [Simple Analytics](https://simpleanalytics.com) |
+| 👁 Live Demo   | [CodeSandbox](https://codesandbox.io), [StackBlitz](https://stackblitz.com) |
+
+
+---
+
 ## 🌟 Featured Projects
 
 | Project | Description |
 |--------|-------------|
-| 🎥 [**Video Sharing Platform**](https://github.com/enescakmakci/video-platform) | A YouTube-inspired video platform where users can upload, share and interact. Built using React + Node. |
+| 🎥 [**Video Sharing Platform**](https://github.com/enescakmakci/video-platform) <br> ⭐ 42 stars | A YouTube-inspired video platform where users can upload, share, and interact. Built using React + Node. |
 | 📝 [**Blog Site Project**](https://github.com/enescakmakci/blog-site) | SEO-friendly, dynamic blog site powered by Next.js, Tailwind, and Markdown support. |
 | 🌌 [**Synthwave Web Design**](https://github.com/enescakmakci/synthwave-web) | An aesthetic UI experiment with retro gradients, glowing buttons and cyberpunk feel. |
 
 ---
+
+### 🎥 Video Sharing Platform
+A YouTube-inspired video platform with upload & interaction features.
+<p>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTA3OW8xY3RzN2Z6YndmNzF4ejh5ZmR5ejA1ZjY2eW54ZjdvOXRzNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GoeUwCGAqRbuEdVp4v/giphy.gif" width="100%" />
+</p>
+
 
 ## 📊 GitHub Stats
 
@@ -46,6 +70,8 @@ Blending clean code + minimal design + bold aesthetics to create web projects th
 ---
 
 ## 🌱 Currently Working On
+
+🗓️ *Updated: July 2025*
 
 - 🧪 Building **modern UI/UX prototypes** with Tailwind & Framer Motion  
 - 🧩 Developing a **video platform** with custom upload + playback features  
@@ -68,7 +94,19 @@ Blending clean code + minimal design + bold aesthetics to create web projects th
   </a>
 </p>
 
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWswenN3djJmenc4d2VwbnZzcTk2NjMyaG9nOW40cGEwbzE3YnB2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fnOjFOmUYslxChrMMC/giphy.gif" width="420px" />
+  <br/>
+  <i>Thanks for visiting — stay bold, stay synth. 🕶️⚡</i>
+</p>
+
+
+
+
+
+
 ---
+
 ## 🎨 Synthwave Palette
 
 ```css
@@ -77,7 +115,3 @@ Blending clean code + minimal design + bold aesthetics to create web projects th
 --retro-purple: #5f27cd;
 --night-black: #1e1f26;
 --clean-text: #c8d6e5;
-```
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=150&text=Thanks%20for%20visiting!&fontAlign=50&fontColor=c8d6e5&color=5f27cd" />
-</p>
