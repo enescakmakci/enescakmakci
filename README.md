@@ -46,14 +46,14 @@ I'm a passionate **Front-End Developer** from Turkey who blends **clean code**, 
 
 | Project | Description |
 |--------|-------------|
-| 🎥 [**Corporate Website**](https://github.com/enescakmakci/video-platform) <br> ⭐ 42 stars | A premium, pixel-perfect corporate landing page for a high-end architectural ligthing brand. Fully responsive, dark/light mode, modern UI/UX and accessible, built with pure HTML5, CSS3, and vanilla Javascript.|
+| ✨ [**Corporate Website**](https://github.com/enescakmakci/video-platform) <br> ⭐ 42 stars | A premium, pixel-perfect corporate landing page for a high-end architectural ligthing brand. Fully responsive, dark/light mode, modern UI/UX and accessible, built with pure HTML5, CSS3, and vanilla Javascript.|
 | 📝 [**Blog Site Project**](https://github.com/enescakmakci/blog-site) | SEO-friendly, dynamic blog site powered by Next.js, Tailwind, and Markdown support. |
 | 🌌 [**Synthwave Web Design**](https://github.com/enescakmakci/synthwave-web) | An aesthetic UI experiment with retro gradients, glowing buttons and cyberpunk feel. |
 
 ---
 
-### 🎥 Video Sharing Platform
-A YouTube-inspired video platform with upload & interaction features.
+### ✨ Corporate Website
+A premium, pixel-perfect corporate landing page for a high-end architectural ligthing brand.
 <p>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTA3OW8xY3RzN2Z6YndmNzF4ejh5ZmR5ejA1ZjY2eW54ZjdvOXRzNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GoeUwCGAqRbuEdVp4v/giphy.gif" width="100%" />
 </p>
