@@ -39,25 +39,33 @@ I'm a passionate **Front-End Developer** from Turkey who blends **clean code**, 
 | 📈 Analytics   | [Plausible.io](https://plausible.io/), [Simple Analytics](https://simpleanalytics.com) |
 | 👁 Live Demo   | [CodeSandbox](https://codesandbox.io), [StackBlitz](https://stackblitz.com) |
 
-
 ---
 
 ## 🌟 Featured Projects
 
-| Project | Description |
-|--------|-------------|
-| ✨ [**Corporate Website**](https://github.com/enescakmakci/video-platform) <br> ⭐ 42 stars | A premium, pixel-perfect corporate landing page for a high-end architectural ligthing brand. Fully responsive, dark/light mode, modern UI/UX and accessible, built with pure HTML5, CSS3, and vanilla Javascript.|
-| 📝 [**Blog Site Project**](https://github.com/enescakmakci/blog-site) | SEO-friendly, dynamic blog site powered by Next.js, Tailwind, and Markdown support. |
-| 🌌 [**Synthwave Web Design**](https://github.com/enescakmakci/synthwave-web) | An aesthetic UI experiment with retro gradients, glowing buttons and cyberpunk feel. |
+### ✨ [Corporate Website](https://github.com/enescakmakci/luxury-landing-page)
+**A premium, pixel-perfect landing page for a high-end architectural lighting brand.**  
+Fully responsive, dark/light mode, modern UI/UX, accessibility-first.  
+Built with pure HTML5, CSS3, and vanilla JavaScript.
+
+<p align="center">
+  <img src="https://github.com/enescakmakci/luxury-landing-page/blob/main/demo.gif?raw=true" width="800" alt="Corporate Website Demo" />
+</p>
+
+- 🚀 [View the code on GitHub »](https://github.com/enescakmakci/luxury-landing-page)
+- 🌐 [Live Demo (GitHub Pages)](https://enescakmakci.github.io/luxury-landing-page/)
 
 ---
 
-### ✨ Corporate Website
-A premium, pixel-perfect corporate landing page for a high-end architectural ligthing brand.
-<p>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTA3OW8xY3RzN2Z6YndmNzF4ejh5ZmR5ejA1ZjY2eW54ZjdvOXRzNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GoeUwCGAqRbuEdVp4v/giphy.gif" width="100%" />
-</p>
+### 📝 [Blog Site Project](https://github.com/enescakmakci/blog-site)
+SEO-friendly, dynamic blog site powered by Next.js, Tailwind, and Markdown support.
 
+---
+
+### 🌌 [Synthwave Web Design](https://github.com/enescakmakci/synthwave-web)
+An aesthetic UI experiment with retro gradients, glowing buttons and cyberpunk feel.
+
+---
 
 ## 📊 GitHub Stats
 
@@ -99,11 +107,6 @@ A premium, pixel-perfect corporate landing page for a high-end architectural lig
   <br/>
   <i>Thanks for visiting — stay bold, stay synth. 🕶️⚡</i>
 </p>
-
-
-
-
-
 
 ---
 
